@@ -25724,6 +25724,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text.prototype.exps.Text,
 	cr.behaviors.lunarray_LiteTween.prototype.cnds.OnReverseEnd,
 	cr.system_object.prototype.cnds.PickNth,
+	cr.plugins_.Audio.prototype.acts.Stop,
 	cr.system_object.prototype.acts.GoToLayout
 ];};
 
